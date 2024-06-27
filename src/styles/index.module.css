@@ -1,0 +1,14 @@
+/* component level css */
+
+.rajyt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    color: #4CAF50; /* Green color */
+    background-image: linear-gradient(to right, #4CAF50, #2196F3); /* Gradient from green to blue */
+    -webkit-background-clip: text; /* Clip text to background gradient */
+    background-clip: text;
+    -webkit-text-fill-color: transparent; /* Hide actual text color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Text shadow for depth */
+    padding: 20px; /* Padding around the text */
+}
